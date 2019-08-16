@@ -1,1 +1,2 @@
-Thuc hanh ve github lan thu 2
+Thuc hanh ve github lan thu 3
+Hello GitHub
